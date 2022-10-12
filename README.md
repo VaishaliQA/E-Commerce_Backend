@@ -27,8 +27,12 @@ This project is built the back end for an e-commerce site. This application used
   Here, walk through video of complete application. <br>
   
 
-https://user-images.githubusercontent.com/54869821/194199588-24aa3c4c-ccf5-47e4-b9d0-678eee12a77a.mp4
 
+
+
+
+
+https://user-images.githubusercontent.com/54869821/195425971-c814a301-52d9-48dd-a605-cbd23989872f.mp4
 
 
 
